@@ -3,16 +3,16 @@
     "contentVersion":"1.0.0.0",
     "parameters":{  
         "dataFactoryName":{  
-            "value":"<datafactoryname>"
+            "value":"adf"
         },
         "dataFactoryLocation":{  
             "value":"East US"
         },
         "storageAccountName":{  
-            "value":"<yourstorageaccountname>"
+            "value":"cs744532ebc5ff3x438fxaa5"
         },
         "storageAccountKey":{  
-            "value":"<yourstorageaccountkey>"
+            "value":"<isp/98+X+Qem4pkI5y7W+WbzuThlAuda/yN2NC/90+SmCpMlL4M9jYccyD7+SjlGX2fhBpvZxiw9KvV1987wkA==>"
         },
         "triggerStartTime":{  
             "value":"2019-09-08T11:00:00"
