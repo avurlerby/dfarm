@@ -1,0 +1,24 @@
+{  
+    "$schema":"https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion":"1.0.0.0",
+    "parameters":{  
+        "dataFactoryName":{  
+            "value":"<datafactoryname>"
+        },
+        "dataFactoryLocation":{  
+            "value":"East US"
+        },
+        "storageAccountName":{  
+            "value":"<yourstorageaccountname>"
+        },
+        "storageAccountKey":{  
+            "value":"<yourstorageaccountkey>"
+        },
+        "triggerStartTime":{  
+            "value":"2019-09-08T11:00:00"
+        },
+        "triggerEndTime":{  
+            "value":"2019-09-08T14:00:00"
+        }
+    }
+}
