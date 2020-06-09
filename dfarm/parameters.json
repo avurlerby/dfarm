@@ -13,12 +13,6 @@
         },
         "storageAccountKey":{  
             "value":"<isp/98+X+Qem4pkI5y7W+WbzuThlAuda/yN2NC/90+SmCpMlL4M9jYccyD7+SjlGX2fhBpvZxiw9KvV1987wkA==>"
-        },
-        "triggerStartTime":{  
-            "value":"2019-09-08T11:00:00"
-        },
-        "triggerEndTime":{  
-            "value":"2019-09-08T14:00:00"
-        }
+        }   
     }
 }
