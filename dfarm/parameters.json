@@ -1,0 +1,18 @@
+{  
+    "$schema":"https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion":"1.0.0.0",
+    "parameters":{  
+        "dataFactoryName":{  
+            "value":"adf"
+        },
+        "dataFactoryLocation":{  
+            "value":"East US"
+        },
+        "storageAccountName":{  
+            "value":"cs744532ebc5ff3x438fxaa5"
+        },
+        "storageAccountKey":{  
+            "value":"<isp/98+X+Qem4pkI5y7W+WbzuThlAuda/yN2NC/90+SmCpMlL4M9jYccyD7+SjlGX2fhBpvZxiw9KvV1987wkA==>"
+        }   
+    }
+}
